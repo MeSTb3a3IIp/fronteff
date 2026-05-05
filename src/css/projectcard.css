@@ -1,0 +1,29 @@
+.card {
+  background: #1f2933;
+  padding: 14px;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-title {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.card-actions button {
+  margin-left: 8px;
+  padding: 6px 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+.card-actions button.danger {
+  background: #ef4444;
+  color: white;
+}
