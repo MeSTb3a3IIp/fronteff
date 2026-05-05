@@ -50,6 +50,8 @@
   min-height: 72px;
 }
 
+
+// highlight
 .project-tile.highlight {
   outline: 2px dashed #ef4444;
   box-shadow: 0 6px 18px rgba(239,68,68,0.12);
