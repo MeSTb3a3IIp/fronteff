@@ -49,10 +49,8 @@
   transition: transform .12s ease, box-shadow .12s ease;
   min-height: 72px;
 }
-.project-tile:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 24px rgba(0,0,0,0.6);
-}
+
+
 .project-tile.highlight {
   outline: 2px dashed #ef4444;
   box-shadow: 0 6px 18px rgba(239,68,68,0.12);
